@@ -1,0 +1,55 @@
+/* stylesheet.css */
+body	{
+	background-color: #EDD0F7;
+}
+h1 {
+	text-align: center;
+	color: yellow;
+	background-color: purple;
+	border-width: 3px;
+	border-style: solid;
+	border-color: purple;
+}
+h2	{
+	text-align: center;
+	color: yellow;
+	background-color: purple;
+	border-width: 3px;
+	border-style: solid;
+	border-color: purple;
+}
+h3	{
+	text-align: center;
+	color: yellow;
+	background-color: purple;
+	text-align: center;
+	border-width: 3px;
+	border-style: solid;
+	border-color: purple;
+}
+.chemclub {
+    background-color:purple;
+}
+p	{
+	text-align: center;
+	color: white;
+	background-color: purple;
+	border-width: 3px;
+	border-style: solid;
+	border-color: purple;
+}
+table.table {
+	background: white;
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+	width: 800px;
+	height: 500px;
+	position: absolute;
+	left: 30%;
+	right: 25%;
+	top: 15%;
+}
+a {
+	font-size: 150%;
+}
